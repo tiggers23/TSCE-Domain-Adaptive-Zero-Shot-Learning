@@ -14,4 +14,18 @@ Please run
 'python train_AwA.py -gpu <gpu_id>'
 for training our model.
 
+# Citation
+Please cite our paper:
+
+@ARTICLE{10183844,
+  author={Zhang, Jianyang and Yang, Guowu and Hu, Ping and Lin, Guosheng and Lv, Fengmao},
+  journal={IEEE Transactions on Image Processing}, 
+  title={Semantic Consistent Embedding for Domain Adaptive Zero-Shot Learning}, 
+  year={2023},
+  volume={32},
+  number={},
+  pages={4024-4035},
+  doi={10.1109/TIP.2023.3293769}}
+
+
 Acknowledgements: Our codes are mainly based on https://github.com/junbaoZHUO/UODTN
